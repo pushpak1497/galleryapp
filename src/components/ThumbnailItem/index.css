@@ -1,0 +1,14 @@
+/* Write your code here. */
+.list-item {
+  margin: 8px;
+}
+.thumbnail-btn {
+  border: none;
+  background: transparent;
+}
+.blur {
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
